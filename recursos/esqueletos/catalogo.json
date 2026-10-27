@@ -1,0 +1,73 @@
+{
+  "_nota": "Catalogo VISUAL de referencia para elegir la variante de esqueleto. NO son referencias del manifiesto: el personaje del anuncio lo genera el Character Bible del Paso 3.2 de la skill, y la hoja hero que sale de ahi es la que se reusa en todas las tomas. Estas imagenes sirven para ver el rostro, la silueta y como lee un cuerpo translucido antes de decidir, y para escribir bien el Bible.",
+  "catalogo": [
+    {
+      "archivo": "transparente-anatomico.png",
+      "nombre": "Transparente anatómico",
+      "variante": "X-Ray con órganos",
+      "descripcion": "Cuerpo translúcido claro con el esqueleto y el sistema circulatorio visibles — arterias rojas, venas azules y un brillo rosado en el pecho. Fondo blanco.",
+      "bueno_para": "suplementos y salud donde el guion explica un mecanismo interno concreto"
+    },
+    {
+      "archivo": "cristal.png",
+      "nombre": "Cristal transparente",
+      "variante": "Cristal Transparente",
+      "descripcion": "Cuerpo de vidrio incoloro, esqueleto marfil nítido adentro, sin tinte. Fondo blanco.",
+      "bueno_para": "base neutra. La más maleable: al no tener color propio, es la que menos pelea cuando el anuncio necesita darle otro aspecto"
+    },
+    {
+      "archivo": "cristal-cinta-roja.png",
+      "nombre": "Cristal con cinta roja",
+      "variante": "Cristal Transparente + accesorio",
+      "descripcion": "Igual que el cristal, con una cinta roja en la cabeza.",
+      "bueno_para": "deporte y rendimiento, cuando un accesorio basta y no hace falta vestirlo entero"
+    },
+    {
+      "archivo": "ambar.png",
+      "nombre": "Resina ámbar",
+      "variante": "Resina Ámbar",
+      "descripcion": "Cuerpo ámbar-dorado translúcido tipo resina pulida, esqueleto crema brillando a través. Tono medio.",
+      "bueno_para": "bienestar y belleza con registro cálido, en vez del azul clínico del X-Ray"
+    },
+    {
+      "archivo": "ambar-claro.png",
+      "nombre": "Resina ámbar clara",
+      "variante": "Resina Ámbar",
+      "descripcion": "La versión más clara y luminosa del ámbar. El esqueleto se lee con más nitidez que en las otras dos.",
+      "bueno_para": "lo mismo que el ámbar, cuando se quiere más claridad interior y menos densidad de color"
+    },
+    {
+      "archivo": "ambar-oscuro.png",
+      "nombre": "Resina ámbar oscura",
+      "variante": "Resina Ámbar",
+      "descripcion": "Ámbar más saturado y denso, casi miel oscura. El interior se lee menos.",
+      "bueno_para": "registro premium o nocturno; peor si el guion necesita mostrar algo adentro"
+    },
+    {
+      "archivo": "vaquero.png",
+      "nombre": "Vaquero vestido",
+      "variante": "Dressed Skeleton",
+      "descripcion": "Esqueleto de huesos marfil vestido de vaquero: sombrero, chaleco de cuero, jeans y botas. Cráneo y manos a la vista.",
+      "bueno_para": "ejemplo de la variante vestida. El atuendo se cambia por el que pida el mundo del anuncio"
+    },
+    {
+      "archivo": "nino.png",
+      "nombre": "Niño chibi",
+      "variante": "Cute Cartoon Mascot",
+      "descripcion": "Esqueleto chibi de cráneo redondo y ojos enormes, cuerpo pequeño, fondo pastel.",
+      "bueno_para": "productos infantiles. OJO: es la variante Cute Cartoon Mascot, NO la \"versión infantil\" del Paso 3.1 — esa mantiene el Bible adulto con proporciones de niño y NO es chibi"
+    }
+  ],
+  "descartadas": [
+    {
+      "origen": "esqueleto normal.png",
+      "porque": "trae un baño completo de fondo",
+      "nota": "Una hoja con ambiente propio arrastra su encuadre a cada toma que la use. Sirven como inspiracion, no como referencia."
+    },
+    {
+      "origen": "esqueleto anatomico 2.png",
+      "porque": "trae una sala oscura con pantallas de fondo",
+      "nota": "Una hoja con ambiente propio arrastra su encuadre a cada toma que la use. Sirven como inspiracion, no como referencia."
+    }
+  ]
+}

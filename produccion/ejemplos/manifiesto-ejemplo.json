@@ -1,0 +1,62 @@
+{
+  "estilo": "crochet",
+  "modo_audio": "voz_en_off",
+  "mercado": "LatAm",
+  "idioma": "es",
+  "aspect_ratio": "9:16",
+  "personaje": {
+    "activo": true,
+    "prompt": "Stop-motion animation diorama scene, handmade knitted and crocheted miniature world. Full-body small yarn-textured Latina woman character, early 30s, dark curly yarn hair tied back with a small knitted band, wearing a mustard crocheted cardigan over a cream knitted top, standing in a neutral pose against a simple crocheted backdrop. Every element is a handmade fabric prop physically crafted from wool and yarn. The entire scene is fully crocheted and knitted — every surface, character, object, and skin is made of visible yarn stitches and fabric loops. No realistic skin, no smooth surfaces, no photorealistic textures anywhere in the frame. Every element, including hands, arms, faces, and backgrounds, must have visible knit and crochet stitch texture throughout. Stop-motion animation diorama scene, handmade knitted and crocheted miniature world. soft natural light from a small diorama window to the left. realistic skin, smooth skin, photorealistic hands, photorealistic faces, realistic textures, smooth surfaces, CGI render, claymation, clay texture, Pixar style, Disney style, 3D animation, plastic texture, flat cartoon, airbrushed, anime, illustrated, 2D, studio lighting, ring light, HDR, symmetrical lighting, harsh shadows, perfectly exposed.",
+    "imagen_generada": null
+  },
+  "producto": {
+    "foto": "producto.jpg",
+    "nota": "envase tejido en lana, conservando silueta, proporciones y etiqueta reconocibles, con textura de ganchillo visible"
+  },
+  "tomas": [
+    {
+      "n": 1,
+      "tipo": "B",
+      "duracion": 6.7,
+      "linea": "Si a las dos horas de tu café ya sientes el bajón, necesitas cambiar tu café.",
+      "prompt_imagen_inicial": "Stop-motion animation diorama scene, handmade knitted and crocheted miniature world. Full-body small yarn-textured Latina woman character, early 30s, dark curly yarn hair tied back with a small knitted band, wearing a mustard crocheted cardigan over a cream knitted top, sitting upright at a knitted kitchen table in a tiny yarn kitchen, alert and awake, a small crocheted mug of coffee in front of her, woven kettle and a knitted shelf with jars behind. Every element is a handmade fabric prop physically crafted from wool and yarn. The entire scene is fully crocheted and knitted — every surface, character, object, and skin is made of visible yarn stitches and fabric loops. No realistic skin, no smooth surfaces, no photorealistic textures anywhere in the frame. Every element, including hands, arms, faces, and backgrounds, must have visible knit and crochet stitch texture throughout. Stop-motion animation diorama scene, handmade knitted and crocheted miniature world. soft natural light from a small diorama window to the left. realistic skin, smooth skin, photorealistic hands, photorealistic faces, realistic textures, smooth surfaces, CGI render, claymation, clay texture, Pixar style, Disney style, 3D animation, plastic texture, flat cartoon, airbrushed, anime, illustrated, 2D, studio lighting, ring light, HDR, symmetrical lighting, harsh shadows, perfectly exposed.",
+      "prompt_imagen_final": "Stop-motion animation diorama scene, handmade knitted and crocheted miniature world. The same full-body small yarn-textured Latina woman character, early 30s, dark curly yarn hair tied back with a small knitted band, wearing a mustard crocheted cardigan over a cream knitted top, now fully slumped forward over the same knitted kitchen table, head resting on one arm, eyes closed, completely settled in that position, the crocheted mug of coffee still in front of her. Every element is a handmade fabric prop physically crafted from wool and yarn. The entire scene is fully crocheted and knitted — every surface, character, object, and skin is made of visible yarn stitches and fabric loops. No realistic skin, no smooth surfaces, no photorealistic textures anywhere in the frame. Every element, including hands, arms, faces, and backgrounds, must have visible knit and crochet stitch texture throughout. Stop-motion animation diorama scene, handmade knitted and crocheted miniature world. soft natural light from a small diorama window to the left. realistic skin, smooth skin, photorealistic hands, photorealistic faces, realistic textures, smooth surfaces, CGI render, claymation, clay texture, Pixar style, Disney style, 3D animation, plastic texture, flat cartoon, airbrushed, anime, illustrated, 2D, studio lighting, ring light, HDR, symmetrical lighting, harsh shadows, perfectly exposed.",
+      "prompt_video": "Stop-motion animation diorama scene, image-to-video from the shot above, 7s. The knitted character slowly loses her posture and sinks forward onto the table until her head rests on her arm and stays there. The yarn fibers of her cardigan settle with the movement. The mug, the kettle and the shelf stay completely still. Camera locked, no movement. Ensure the entire scene remains fully crocheted and knitted throughout every frame — all characters, objects, and surfaces must retain visible yarn stitch texture with no realistic or smooth surfaces at any point. Non-CGI. Non-cinematic. Animations must start at the first frame. Non-disney.",
+      "referencias": ["personaje"]
+    },
+    {
+      "n": 2,
+      "tipo": "C",
+      "duracion": 4.2,
+      "linea": "Pruébalo siete días, una taza cada mañana.",
+      "prompt_imagen_inicial": "Stop-motion animation diorama scene, handmade knitted and crocheted miniature world. Hero shot of the real product package standing on a knitted kitchen counter in a tiny yarn kitchen, a small crocheted mug beside it, a knitted shelf with jars softly out of focus behind. The package keeps its exact real shape, proportions and design. Every other element is a handmade fabric prop physically crafted from wool and yarn. The entire scene is fully crocheted and knitted — every surface, character, object, and skin is made of visible yarn stitches and fabric loops. No realistic skin, no smooth surfaces, no photorealistic textures anywhere in the frame. Every element, including hands, arms, faces, and backgrounds, must have visible knit and crochet stitch texture throughout. Stop-motion animation diorama scene, handmade knitted and crocheted miniature world. soft natural light from a small diorama window to the left. realistic skin, smooth skin, photorealistic hands, photorealistic faces, realistic textures, smooth surfaces, CGI render, claymation, clay texture, Pixar style, Disney style, 3D animation, plastic texture, flat cartoon, airbrushed, anime, illustrated, 2D, studio lighting, ring light, HDR, symmetrical lighting, harsh shadows, perfectly exposed.",
+      "prompt_imagen_final": null,
+      "prompt_video": "Stop-motion animation diorama scene, image-to-video from the shot above, 4s. The shot holds on the product package. Only the loose wool fibers on the knitted counter and the mug's yarn edge breathe very slightly. Very slow camera push in toward the package. Nothing else moves. Ensure the entire scene remains fully crocheted and knitted throughout every frame — all characters, objects, and surfaces must retain visible yarn stitch texture with no realistic or smooth surfaces at any point. Non-CGI. Non-cinematic. Animations must start at the first frame. Non-disney.",
+      "referencias": ["producto"]
+    }
+  ],
+  "broll": [
+    {
+      "n": 1,
+      "despues_de_toma": 1,
+      "sincroniza_con": "ya sientes el bajón",
+      "duracion": 3,
+      "prompt_imagen": "Stop-motion animation diorama scene, handmade knitted and crocheted miniature world. Extreme macro close-up of the surface of the crocheted coffee inside the small knitted mug, individual wool fibers and stitch loops filling the frame, two individual white wool balls suspended just above the surface. Every element is a handmade fabric prop physically crafted from wool and yarn. The entire scene is fully crocheted and knitted — every surface, character, object, and skin is made of visible yarn stitches and fabric loops. No realistic skin, no smooth surfaces, no photorealistic textures anywhere in the frame. Every element, including hands, arms, faces, and backgrounds, must have visible knit and crochet stitch texture throughout. Stop-motion animation diorama scene, handmade knitted and crocheted miniature world. soft natural light from a small diorama window to the left. realistic skin, smooth skin, photorealistic hands, photorealistic faces, realistic textures, smooth surfaces, CGI render, claymation, clay texture, Pixar style, Disney style, 3D animation, plastic texture, flat cartoon, airbrushed, anime, illustrated, 2D, studio lighting, ring light, HDR, symmetrical lighting, harsh shadows, perfectly exposed.",
+      "prompt_video": "Stop-motion animation diorama scene, image-to-video from the shot above, 3s. The two suspended wool balls drift downward and settle onto the crocheted coffee surface. The stitch loops stay still. Camera locked. Ensure the entire scene remains fully crocheted and knitted throughout every frame — all characters, objects, and surfaces must retain visible yarn stitch texture with no realistic or smooth surfaces at any point. Non-CGI. Non-cinematic. Animations must start at the first frame. Non-disney.",
+      "referencias": []
+    },
+    {
+      "n": 2,
+      "despues_de_toma": 2,
+      "sincroniza_con": "una taza cada mañana",
+      "duracion": 2.5,
+      "prompt_imagen": "Stop-motion animation diorama scene, handmade knitted and crocheted miniature world. Close-up of the real product package on the knitted kitchen counter, seen from a low angle, a small crocheted calendar page with seven knitted marks pinned to the yarn wall behind it, softly out of focus. The package keeps its exact real shape, proportions and design. Every other element is a handmade fabric prop physically crafted from wool and yarn. The entire scene is fully crocheted and knitted — every surface, character, object, and skin is made of visible yarn stitches and fabric loops. No realistic skin, no smooth surfaces, no photorealistic textures anywhere in the frame. Every element, including hands, arms, faces, and backgrounds, must have visible knit and crochet stitch texture throughout. Stop-motion animation diorama scene, handmade knitted and crocheted miniature world. soft natural light from a small diorama window to the left. realistic skin, smooth skin, photorealistic hands, photorealistic faces, realistic textures, smooth surfaces, CGI render, claymation, clay texture, Pixar style, Disney style, 3D animation, plastic texture, flat cartoon, airbrushed, anime, illustrated, 2D, studio lighting, ring light, HDR, symmetrical lighting, harsh shadows, perfectly exposed.",
+      "prompt_video": "Stop-motion animation diorama scene, image-to-video from the shot above, 3s. Very slow camera pull back from the package. The knitted calendar page behind lifts slightly at one corner and settles. Nothing else moves. Ensure the entire scene remains fully crocheted and knitted throughout every frame — all characters, objects, and surfaces must retain visible yarn stitch texture with no realistic or smooth surfaces at any point. Non-CGI. Non-cinematic. Animations must start at the first frame. Non-disney.",
+      "referencias": ["producto"]
+    }
+  ],
+  "voz_en_off": "Si a las dos horas de tu café ya sientes el bajón, necesitas cambiar tu café. Pruébalo siete días, una taza cada mañana.",
+  "overlays": [
+    { "texto": "7 días", "toma": 2, "momento": "inicio" }
+  ]
+}

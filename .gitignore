@@ -1,0 +1,34 @@
+# Claves — NUNCA se comparten
+.env
+
+# Artefactos generados (temp/ cubre tambien la cola de Google Flow, flow/,
+# que vive dentro de la carpeta de cada anuncio)
+temp/
+output/
+node_modules/
+remotion/node_modules/
+remotion/out/
+
+# Sistema
+.DS_Store
+Thumbs.db
+npm-debug.log*
+
+# Respaldos de skills (no se distribuyen)
+*.skill.bak
+
+# Carpeta que crea Codex sola al abrir el proyecto; no es de este sistema
+.agents/
+
+# Cache de Python (recortar-host.py, tapar-huecos.py)
+__pycache__/
+
+# Lo que guarda cada actualizacion (nunca se borra) y los archivos propios
+# del usuario que el actualizador saca de las carpetas del sistema
+respaldos/
+mis_archivos/
+
+# Marca local: Chrome y Google Flow confirmados en esta instalacion
+.flow-listo
+# Nota local de instalacion a medias (la escribe y la borra Claude)
+.instalacion-pendiente.md

@@ -1,0 +1,196 @@
+==============================================================================
+PLAN DE MONTAJE — neutrogena-hydro-boost-v3
+==============================================================================
+
+Esto es para armar el anuncio a mano (CapCut, Premiere, lo que uses).
+Todos los archivos que se nombran estan en esta misma carpeta.
+
+VOZ EN OFF:  audio/voz.mp3        duracion 51.32s
+             voz: Adam - Engaging, Friendly and Bright
+
+REGLA MADRE: manda el audio. Pon el mp3 en la linea de tiempo primero
+y calza cada clip en su ventana. El video se adapta a la voz, nunca al reves.
+
+------------------------------------------------------------------------------
+
+TOMA 1   (tipo B)
+  Cuando:   00:00.00 -> 00:04.12   (4.12s de ventana)
+  Dice:     "Si te pones crema en la mañana y para el mediodía ya te sientes tirante."
+  Clip:     video/toma-1.mp4
+            Tipo B: empieza y termina en estados distintos.
+            Si sobra metraje ACELERALO, no le cortes el final: perderias la segunda accion.
+  B-roll:   video/broll-1.mp4   (3s)
+            va DESPUES de esta toma, sincronizado con: "ya te sientes tirante"
+            Metelo solo si la ventana se hace larga y la toma se estira.
+
+TOMA 2   (tipo A)
+  Cuando:   00:04.12 -> 00:07.81   (3.69s de ventana)
+  Dice:     "Si tienes la cara grasosa y aun así se te descama la nariz."
+  Clip:     video/toma-2.mp4
+            Plano sostenido: si sobra metraje, corta desde el FINAL.
+            El primer fotograma es el compuesto, ese se respeta siempre.
+  B-roll:   video/broll-2.mp4   (3s)
+            va DESPUES de esta toma, sincronizado con: "se te descama la nariz"
+            Metelo solo si la ventana se hace larga y la toma se estira.
+
+TOMA 3   (tipo B)
+  Cuando:   00:07.81 -> 00:11.49   (3.68s de ventana)
+  Dice:     "Si te compraste la crema más cara y no pasó absolutamente nada."
+  Clip:     video/toma-3.mp4
+            Tipo B: empieza y termina en estados distintos.
+            Si sobra metraje ACELERALO, no le cortes el final: perderias la segunda accion.
+  B-roll:   video/broll-3.mp4   (3s)
+            va DESPUES de esta toma, sincronizado con: "no pasó absolutamente nada"
+            Metelo solo si la ventana se hace larga y la toma se estira.
+
+TOMA 4   (tipo C)
+  Cuando:   00:11.49 -> 00:13.58   (2.09s de ventana)
+  Dice:     "Ahora, aquí está el problema."
+  Clip:     video/toma-4.mp4
+            Plano sostenido: si sobra metraje, corta desde el FINAL.
+            El primer fotograma es el compuesto, ese se respeta siempre.
+  B-roll:   video/broll-4.mp4   (3s)
+            va DESPUES de esta toma, sincronizado con: "aquí está el problema"
+            Metelo solo si la ventana se hace larga y la toma se estira.
+  Texto:    "AQUÍ ESTÁ EL PROBLEMA"  (inicio)
+
+TOMA 5   (tipo A)
+  Cuando:   00:13.58 -> 00:16.20   (2.61s de ventana)
+  Dice:     "Tu piel no está seca, está deshidratada."
+  Clip:     video/toma-5.mp4
+            Plano sostenido: si sobra metraje, corta desde el FINAL.
+            El primer fotograma es el compuesto, ese se respeta siempre.
+  B-roll:   video/broll-5.mp4   (3s)
+            va DESPUES de esta toma, sincronizado con: "está deshidratada"
+            Metelo solo si la ventana se hace larga y la toma se estira.
+  Texto:    "SECA ≠ DESHIDRATADA"  (inicio)
+
+TOMA 6   (tipo A)
+  Cuando:   00:16.20 -> 00:20.23   (4.03s de ventana)
+  Dice:     "Seca es que le falta aceite. Deshidratada es que le falta agua."
+  Clip:     video/toma-6.mp4
+            Plano sostenido: si sobra metraje, corta desde el FINAL.
+            El primer fotograma es el compuesto, ese se respeta siempre.
+  B-roll:   video/broll-6.mp4   (3s)
+            va DESPUES de esta toma, sincronizado con: "le falta agua"
+            Metelo solo si la ventana se hace larga y la toma se estira.
+
+TOMA 7   (tipo A)
+  Cuando:   00:20.23 -> 00:23.13   (2.90s de ventana)
+  Dice:     "Y una crema espesa solo sella la superficie."
+  Clip:     video/toma-7.mp4
+            Plano sostenido: si sobra metraje, corta desde el FINAL.
+            El primer fotograma es el compuesto, ese se respeta siempre.
+  B-roll:   video/broll-7.mp4   (3s)
+            va DESPUES de esta toma, sincronizado con: "sella la superficie"
+            Metelo solo si la ventana se hace larga y la toma se estira.
+
+TOMA 8   (tipo C)
+  Cuando:   00:23.13 -> 00:26.37   (3.24s de ventana)
+  Dice:     "Le pone un techo encima, pero adentro sigue vacía."
+  Clip:     video/toma-8.mp4
+            Plano sostenido: si sobra metraje, corta desde el FINAL.
+            El primer fotograma es el compuesto, ese se respeta siempre.
+  B-roll:   video/broll-8.mp4   (3s)
+            va DESPUES de esta toma, sincronizado con: "adentro sigue vacía"
+            Metelo solo si la ventana se hace larga y la toma se estira.
+
+TOMA 9   (tipo B)
+  Cuando:   00:26.37 -> 00:30.63   (4.26s de ventana)
+  Dice:     "Esto no es crema. Es un gel de agua con ácido hialurónico."
+  Clip:     video/toma-9.mp4
+            Tipo B: empieza y termina en estados distintos.
+            Si sobra metraje ACELERALO, no le cortes el final: perderias la segunda accion.
+  B-roll:   video/broll-9.mp4   (3s)
+            va DESPUES de esta toma, sincronizado con: "gel de agua con ácido hialurónico"
+            Metelo solo si la ventana se hace larga y la toma se estira.
+
+TOMA 10   (tipo A)
+  Cuando:   00:30.63 -> 00:34.37   (3.74s de ventana)
+  Dice:     "El ácido hialurónico retiene hasta mil veces su peso en agua."
+  Clip:     video/toma-10.mp4
+            Plano sostenido: si sobra metraje, corta desde el FINAL.
+            El primer fotograma es el compuesto, ese se respeta siempre.
+  B-roll:   video/broll-10.mp4   (3s)
+            va DESPUES de esta toma, sincronizado con: "mil veces su peso en agua"
+            Metelo solo si la ventana se hace larga y la toma se estira.
+  Texto:    "1000x su peso en agua"  (inicio)
+
+TOMA 11   (tipo A)
+  Cuando:   00:34.37 -> 00:38.36   (3.99s de ventana)
+  Dice:     "En vez de taparte, jala el agua hacia adentro y la deja ahí."
+  Clip:     video/toma-11.mp4
+            Plano sostenido: si sobra metraje, corta desde el FINAL.
+            El primer fotograma es el compuesto, ese se respeta siempre.
+  B-roll:   video/broll-11.mp4   (3s)
+            va DESPUES de esta toma, sincronizado con: "la deja ahí"
+            Metelo solo si la ventana se hace larga y la toma se estira.
+
+TOMA 12   (tipo B)
+  Cuando:   00:38.36 -> 00:41.04   (2.68s de ventana)
+  Dice:     "Se absorbe en segundos y no te tapa los poros."
+  Clip:     video/toma-12.mp4
+            Tipo B: empieza y termina en estados distintos.
+            Si sobra metraje ACELERALO, no le cortes el final: perderias la segunda accion.
+  B-roll:   video/broll-12.mp4   (3s)
+            va DESPUES de esta toma, sincronizado con: "no te tapa los poros"
+            Metelo solo si la ventana se hace larga y la toma se estira.
+
+TOMA 13   (tipo B)
+  Cuando:   00:41.04 -> 00:43.58   (2.54s de ventana)
+  Dice:     "Úsalo mañana y noche por siete días."
+  Clip:     video/toma-13.mp4
+            Tipo B: empieza y termina en estados distintos.
+            Si sobra metraje ACELERALO, no le cortes el final: perderias la segunda accion.
+  B-roll:   video/broll-13.mp4   (3s)
+            va DESPUES de esta toma, sincronizado con: "siete días"
+            Metelo solo si la ventana se hace larga y la toma se estira.
+  Texto:    "7 días"  (inicio)
+
+TOMA 14   (tipo B)
+  Cuando:   00:43.58 -> 00:46.47   (2.89s de ventana)
+  Dice:     "Al octavo, alguien te va a preguntar qué te hiciste."
+  Clip:     video/toma-14.mp4
+            Tipo B: empieza y termina en estados distintos.
+            Si sobra metraje ACELERALO, no le cortes el final: perderias la segunda accion.
+  B-roll:   video/broll-14.mp4   (3s)
+            va DESPUES de esta toma, sincronizado con: "qué te hiciste"
+            Metelo solo si la ventana se hace larga y la toma se estira.
+
+TOMA 15   (tipo B)
+  Cuando:   00:46.47 -> 00:48.98   (2.51s de ventana)
+  Dice:     "Lo pides hoy y pagas cuando te llegue a la puerta."
+  Clip:     video/toma-15.mp4
+            Tipo B: empieza y termina en estados distintos.
+            Si sobra metraje ACELERALO, no le cortes el final: perderias la segunda accion.
+  B-roll:   video/broll-15.mp4   (3s)
+            va DESPUES de esta toma, sincronizado con: "pagas cuando te llegue a la puerta"
+            Metelo solo si la ventana se hace larga y la toma se estira.
+  Texto:    "PAGAS AL RECIBIR"  (inicio)
+
+TOMA 16   (tipo C)
+  Cuando:   00:48.98 -> 00:51.32   (2.33s de ventana)
+  Dice:     "Tu cara tiene sed. Dale agua."
+  Clip:     video/toma-16.mp4
+            Plano sostenido: si sobra metraje, corta desde el FINAL.
+            El primer fotograma es el compuesto, ese se respeta siempre.
+  B-roll:   video/broll-16.mp4   (3s)
+            va DESPUES de esta toma, sincronizado con: "Dale agua"
+            Metelo solo si la ventana se hace larga y la toma se estira.
+
+------------------------------------------------------------------------------
+
+B-ROLL SOBRANTES
+Cada toma tiene su B-roll generado, pero no hace falta usarlos todos.
+Los que no metas simplemente quedan sin usar. No pasa nada.
+
+SUBTITULOS
+  audio/tiempos.json trae el tiempo exacto de cada caracter de la narracion.
+  De ahi salen subtitulos de 2-4 palabras perfectamente sincronizados.
+
+AUDIO DE LOS CLIPS
+  Los clips traen ambiente y efectos, sin voces. Mezclalos por debajo de la
+  narracion (unos -18/-20 dB) y ponles un fade corto de ~80ms en cada corte
+  para que no suenen secos.
+
+==============================================================================
